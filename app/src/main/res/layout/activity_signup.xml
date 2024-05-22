@@ -27,7 +27,7 @@
             android:layout_width="214dp"
             android:layout_height="183dp"
             android:layout_marginTop="20dp"
-            app:srcCompat="@drawable/circlesignup" />
+            app:srcCompat="@drawable/signbb" />
     </LinearLayout>
 
 
